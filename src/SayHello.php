@@ -1,6 +1,6 @@
 <?php 
  
-namespace Hello; 
+namespace composer; 
  
 class SayHello
 {

@@ -1,12 +1,18 @@
 {
-    "name": "test/hello",
-    "description": "this is a demo",
+    "name": "wangjingru/hello",
+    "description": "miaoshu",
     "license": "MIT License",
+    "authors": [
+        {
+            "name": "githubwjr",
+            "email": "15901483708@163.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Hello\\": "src/"
+            "composer\\": "src/"
         }
     }
 }
