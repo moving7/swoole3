@@ -1,19 +1,12 @@
 {
     "name": "test/hello",
     "description": "this is a demo",
-    "type": "library",
-    "license": "MIT",
+    "license": "MIT License",
     "minimum-stability": "dev",
     "require": {},
-    "repositories":{
-        "packagist":{
-            "type":"composer",
-            "url":"https://packagist.phpcomposer.com"
-        }
-    },
     "autoload": {
         "psr-4": {
-            "Hello\\": "src/"
+            "test\\": "src/"
         }
     }
 }
