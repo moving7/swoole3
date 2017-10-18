@@ -1,11 +1,11 @@
 {
-    "name": "wangjingru/hello",
+    "name": "Swoole/hello",
     "description": "miaoshu",
     "license": "MIT License",
     "authors": [
         {
-            "name": "githubwjr",
-            "email": "15901483708@163.com"
+            "name": "moving7",
+            "email": "xw_run@qq.com"
         }
     ],
     "minimum-stability": "dev",
